@@ -18,15 +18,15 @@ sudo apt install python3-pip
 sudo python3 -m pip install easyAI
 ```
 
-Otherwise check here for installations:
-python: https://www.python.org/downloads/
-pip: https://pip.pypa.io/en/stable/installation/
-EasyAI: https://zulko.github.io/easyAI/installation.html
+Otherwise check here for installations:<br />
+python: https://www.python.org/downloads/<br />
+pip: https://pip.pypa.io/en/stable/installation/<br />
+EasyAI: https://zulko.github.io/easyAI/installation.html<br />
+
 
 ### Running
 ```console
 python3 checkersEasyAI.py
 ```
-
 
 
