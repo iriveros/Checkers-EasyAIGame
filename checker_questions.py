@@ -1,6 +1,17 @@
 # [[file:checker.org::*questions][questions:1]]
 # !/usr/bin/env python3
 
+
+#################################################################################################################
+# Ivan Riveros													#
+# Project 1 for CAP4630												#
+# Date: 6/17/2022												#
+# Description:													#
+# Implemented functions: make_move(self,pos); lose(self), is_over(self) and scoring(self).			#
+# Modified functions: possible_moves_on_white_turn(self), possible_moves_on_black_turn(self), show(self)	#
+#################################################################################################################
+
+
 from easyAI import TwoPlayerGame, Human_Player, AI_Player, Negamax
 from easyAI import solve_with_iterative_deepening
 import numpy as np
